@@ -1,0 +1,6 @@
+{
+  "name": "VHGlobals Voice AI",
+  "description": "Ultra-low latency conversational AI voice agents for automated customer support, lead qualification, and outbound sales calls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
